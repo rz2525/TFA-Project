@@ -1,0 +1,22 @@
+This repository is for TFA group project (IEOR 4501)
+
+Group Number: 36
+
+Group Member: Irene Liang (AL4204)
+              Ruolin Zhao ()
+
+Brief Introduction of the project:
+
+The project aims to analyze the date of calls to the 311 phone number for non-emergency services published by New York City.  
+
+Our selection of zipcode: 10027 which is around Columbia university.
+
+There are two files included:
+
+1. Top10.ipynb
+    This file shows our analysis of what the top 10 causes of calls to 311 are around Columbia University, and the total incidents of each of these 10 types there have been in the year 2020.
+            
+
+2. Parking.ipynb
+    This file shows our analysis of whether illegal parking incidents are a larger fraction of total 311 incidents around Columbia University than they are in general.
+
